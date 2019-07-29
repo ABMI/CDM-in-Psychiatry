@@ -1,2 +1,2 @@
-# Psychology-CDM
-Psychology-CDM (Ministry of Health an walfare) 
+# CDM-P
+CDM-P (Ministry of Health an walfare) 
