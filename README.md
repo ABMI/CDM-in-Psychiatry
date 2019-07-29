@@ -1,2 +1,2 @@
-# CDM-P
-CDM-P (Ministry of Health an walfare) 
+# CDM in Psychiatry
+CDM in Psychiatry (Ministry of Health an walfare) 
